@@ -8,7 +8,7 @@ This repository contains the source code for a real-time chat application develo
 - **User Authentication:** Implements Firebase's authentication services to ensure secure user authentication.
 - **Picture Upload:** Users can upload pictures to share with their contacts.
 - **Contact Search:** Allows users to search for contacts within the application.
-- **Responsive Design:** Incorporates responsive design principles to ensure optimal performance across various devices and screen sizes.
+
 
 ## Technologies Used
 - React.js
